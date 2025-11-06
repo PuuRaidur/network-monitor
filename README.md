@@ -1,4 +1,4 @@
-basic wi-fi/ethernet traffic monitor. no pre-fixed refresh rate
+basic wi-fi/ethernet traffic monitor. no pre-fixed refresh rate. it refreshes at raw cpu cycles
 
 $ cargo build
 
